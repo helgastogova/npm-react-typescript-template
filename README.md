@@ -2,6 +2,8 @@
 
 This repository serves as a base for creating npm packages using React and TypeScript. It comes preconfigured with a build process and a set of recommended packages for a modern development workflow.
 
+You can read more about that repo [here](https://hackernoon.com/building-efficient-npm-packages-with-react-typescript-and-css-modules-a-comprehensive-guide)
+
 ## Features
 
 - **React & TypeScript**: Write your package in modern React with TypeScript for type safety and better developer experience.
