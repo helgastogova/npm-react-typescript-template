@@ -29,7 +29,7 @@ function styleInject(css, ref) {
   }
 }
 
-var css_248z = ".styles-module_root__Xsw1F { \n  background: gold;\n}";
+var css_248z = ".styles-module_root__Xsw1F {\n  background: gold;\n}\n";
 var s = {"root":"styles-module_root__Xsw1F"};
 styleInject(css_248z);
 
